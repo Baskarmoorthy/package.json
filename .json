@@ -68,7 +68,7 @@
     "tailwindcss": "^1.7.6"
   },
   "key": [
-    "gatsby"
+    "gat"
   ],
   "license": "0BSD",
   "scripts": {
