@@ -67,7 +67,7 @@
     "prettier": "2.0.5",
     "tailwindcss": "^1.7.6"
   },
-  "keywords": [
+  "key": [
     "gatsby"
   ],
   "license": "0BSD",
